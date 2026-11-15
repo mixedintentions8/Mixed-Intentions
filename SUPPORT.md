@@ -1,6 +1,6 @@
-# Mixed Intensions Support
+# Mixed Intentions Support
 
-Mixed Intensions was previously called Last Call. For help, email [lastcallcocktailappios@gmail.com](mailto:lastcallcocktailappios@gmail.com?subject=Mixed%20Intensions%20Support).
+Mixed Intentions was previously called Last Call. For help, email [mixedintentions8@gmail.com](mailto:mixedintentions8@gmail.com?subject=Mixed%20Intentions%20Support).
 
 ## Stock your bar
 
@@ -32,4 +32,4 @@ Your bar, favorites and saved recipes are stored locally and are designed to sur
 
 Include the app version, device model, operating system version and steps that led to the issue. For recognition problems, include the brand, full expression and size, and the words the app read. You may attach a label photo if you choose. Please do not send passwords or payment information.
 
-[Privacy policy](./PRIVACY_POLICY.md) · [Support website](https://lastcallcocktailapp.github.io/Mixed-Intensions/support/)
+[Privacy policy](./PRIVACY_POLICY.md) · [Support website](https://mixedintentions8.github.io/Mixed-Intentions/support/)

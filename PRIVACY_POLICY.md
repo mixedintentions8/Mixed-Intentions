@@ -1,8 +1,8 @@
-# Mixed Intensions Privacy Policy
+# Mixed Intentions Privacy Policy
 
-**Effective date: November 14, 2026**
+**Effective date: November 15, 2026**
 
-Mixed Intensions (formerly Last Call) helps you keep a home-bar inventory, discover and save cocktail recipes, scan bottle labels, and create your own pours. Features vary by app version.
+Mixed Intentions (formerly Last Call) helps you keep a home-bar inventory, discover and save cocktail recipes, scan bottle labels, and create your own pours. Features vary by app version.
 
 ## Your bar stays on your device
 
@@ -48,4 +48,4 @@ The app is intended for adults of legal drinking age in their location. It is no
 
 We may update this policy when the app's features or information practices change. The effective date above identifies the current policy.
 
-For privacy questions, email [lastcallcocktailappios@gmail.com](mailto:lastcallcocktailappios@gmail.com).
+For privacy questions, email [mixedintentions8@gmail.com](mailto:mixedintentions8@gmail.com).
